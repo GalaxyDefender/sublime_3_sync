@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Angular CLI",
+		"Angular Material Snippets",
+		"AngularJS",
+		"Bootstrap 3 Snippets",
+		"ColorPicker",
+		"Console Exec",
+		"EJS",
+		"Emmet",
+		"Git",
+		"HTML Boilerplate",
+		"HTML5",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"jQuery",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Node Completions",
+		"npm",
+		"Package Control",
+		"Trimmer",
+		"TypeScript",
+		"TypeScript Syntax"
+	]
+}
